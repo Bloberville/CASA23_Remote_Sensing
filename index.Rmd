@@ -1,7 +1,7 @@
 ---
-title: "Presentation Ninja"
+title: "Matts test presentation"
 subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
+author: "Matt Koller & Yihui Xie"
 institute: "RStudio, PBC"
 date: "2016/12/12 (updated: `r Sys.Date()`)"
 output:
@@ -13,7 +13,7 @@ output:
       countIncrementalSlides: false
 ---
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+background-image: url(https://earthsky.org/upl/2012/08/london_lights_580-e1343918995182.jpeg)
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
